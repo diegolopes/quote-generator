@@ -10,9 +10,9 @@ let quotes = [
   'Antes de fazer alguma coisa, pense. Quando achar que já pode faze-la, pense novamente.\n - Pitagoras',
   'Quando um homem é bom amigo, também tem amigos bons. \n  - Maquiavel',
   'Ou você controla seus atos, ou eles o controlarão \n - Shakespeare',
-  'O caminho para se conseguir a felicidade é fazendo as outras pessoas felizes \n - Robert Baden-Powell'
+  'O caminho para se conseguir a felicidade é fazendo as outras pessoas felizes \n - Robert Baden-Powell',
+  'É melhor ser rei do teu silêncio do que escravo das tuas palavras. \n - Shakespeare'
 
-  
 ];
 
 // Aqui vamos sortear uma citação aleatória
